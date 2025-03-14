@@ -1,2 +1,2 @@
-# Exerc-cio-de-Github
+# Exercício-de-Github
 Projeto Teste
