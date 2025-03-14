@@ -13,3 +13,12 @@ Projeto Teste
 **Idalice**
 - 41 anos
 - Gerente
+
+
+
+| Nome | Idade | Profissão |
+|-------|-------|-----------|
+| Yasmin | 18 Anos | Estudante |
+| Vitória | 19 Anos | Gestora | 
+| Idalice | 41 Anos | Gerente |
+| Giovanna | 18 Anos | Estudante |
